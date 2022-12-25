@@ -1,0 +1,20 @@
+.SearchForm {
+    display: flex;
+    justify-content: center;
+}
+
+.div {
+    text-align: center;
+}
+
+.alertMessage {
+    margin-top: 2%;
+}
+
+.headerText {
+    text-align: left;
+}
+
+.infoText {
+    text-align: left;
+}
